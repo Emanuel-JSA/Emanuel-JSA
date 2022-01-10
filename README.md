@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Emanuel José
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Ruby on ails
+- 🔴💎 I’m currently learning Ruby on ails
 
 <!---
 Emanuel-JSA/Emanuel-JSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
