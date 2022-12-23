@@ -12,7 +12,7 @@ I am passionate about notations, technology and social causes, always on the loo
 ## Skills
 
 - Web development (HTML, CSS, JavaScript)
-- Front-end framework(Vue.js)
+- Front-end framework (Vue.js)
 - Java and Springboot
 - Ruby on Rails
 - UI/UX Design
