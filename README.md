@@ -15,6 +15,7 @@ I am passionate about notations, technology and social causes, always on the loo
 - Front-end framework (Vue.js)
 - Java and Springboot
 - Ruby on Rails
+- Database PostgreSQL / MySQL
 - UI/UX Design
 
 ## Experience
