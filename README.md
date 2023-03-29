@@ -16,7 +16,7 @@ I am passionate about notations, technology and social causes, always on the loo
 - Java and Springboot
 - Ruby on Rails
 - Database PostgreSQL / MySQL
-- UI/UX Design
+- Current learning Flutter
 
 ## Experience
 
