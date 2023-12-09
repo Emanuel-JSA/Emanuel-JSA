@@ -16,7 +16,7 @@ I am passionate about notations, technology and social causes, always on the loo
 - Java and Springboot
 - Ruby on Rails
 - Database PostgreSQL / MySQL
-- Current learning Flutter
+- Current learning Python with Advent of Code
 
 ## Experience
 
