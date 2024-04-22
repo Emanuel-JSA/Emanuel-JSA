@@ -7,16 +7,13 @@ I am passionate about notations, technology and social causes, always on the loo
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/emanuel-jsa/)
-- [Dribbble](https://dribbble.com/EmanuelJSA)
 
 ## Skills
 
 - Web development (HTML, CSS, JavaScript)
-- Front-end framework (Vue.js)
 - Java and Springboot
-- Ruby on Rails
 - Database PostgreSQL / MySQL
-- Current learning Python with Advent of Code
+- Mobile development with React Native
 
 ## Experience
 
