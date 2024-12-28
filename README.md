@@ -1,21 +1,26 @@
-# About Me
+Hi, I'm Emanuel José 👋
 
-Hi there! My name is Emanuel José and I am a Web developer. With a background in Design and always looking for opportunities to learn and grow as a professional. 
+I’m a React Native Mobile Developer passionate about building robust and user-friendly applications for Android and iOS. With a solid foundation in Java and Spring Boot, I enjoy creating seamless integrations between front-end and back-end systems.
+🚀 Skills
 
-I am passionate about notations, technology and social causes, always on the lookout for new challenges and opportunities to use my skills to make a positive impact. In my free time, I enjoy reading a lot, playing single-player games and spending time with people i love.
+    Mobile Development: React Native, Android Studio, Xcode
+    Back-End: Java, Spring Boot, RESTful APIs
+    Databases: PostgreSQL, MySQL
+    Tools: Git, GitHub Actions (CI/CD), Detox (E2E Testing)
 
-## Links
+💼 Experience
 
-- [LinkedIn](https://www.linkedin.com/in/emanuel-jsa/)
+    DoctorId
+    Mobile development with React Native, API integration, and CI/CD pipelines.
+    Implemented E2E testing with Detox to ensure app quality.
 
-## Skills
+    Sovis
+    Developed native mobile applications and back-end systems with Java and Spring Boot.
 
-- Web development (HTML, CSS, JavaScript)
-- Java and Springboot
-- Database PostgreSQL / MySQL
-- Mobile development with React Native
+    Alfacon
+    Full-stack development for web and mobile platforms.
 
-## Experience
+📫 Connect
 
--   [Internship in Rails web-development] - Edtech platform maintenance and development. 
--   [Jr Full Stack Developer] - Developing new solutions to a sales force application, web and mobile.
+  [LinkedIn](https://www.linkedin.com/in/emanuel-jsa/)
+
